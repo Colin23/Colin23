@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=colin23&label=Profile%20views&color=0e75b6&style=flat" alt="colin23" /> </p>
 
 <p align="center">
-    🔭 I’m currently working with a couple of friends on various projects in our Frock organisation. Feel free to check it out at <a href="https://github.com/frock-team">Frock.</a>
+    🔭 I’m currently working with a couple of friends on various projects in our Zufall Labs organisation. Feel free to check it out at <a href="https://github.com/zufall-labs">Zufall Labs</a>.
 <p align="center">
     🌱 As I'm a curious person, I spend a lot of my free time looking at new technologies and building my own software.
 <p align="center">
