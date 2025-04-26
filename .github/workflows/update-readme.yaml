@@ -20,6 +20,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Berlin
           plugin_repositories: yes
+          plugin_repositories_featured: no
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
